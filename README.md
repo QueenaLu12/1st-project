@@ -1,1 +1,2 @@
-# 1st-project
+# This project is about studying how theses free apps from App Store and Google Player make profit. During this process, I will collect data sets about the apps fom these two source first and then do some cleasing an shaping job with python functions and all kinds of variables as well as data types.
+# My final work is to help the App suppliers benefit more based on the analysis of the ready data and help developers understand what type of apps are likely to attract more users on Google Play and App Store.
